@@ -1,0 +1,6 @@
+# Intellij generated directory
+.idea
+build
+
+# Gradle generated directory
+.gradle
